@@ -5,6 +5,7 @@
 # Project home page: 
 # E-Mail: hj@arlt2net.de
 # ===========================================
-altium.com
-wizcase.com
-altium-pcb.de
+0.0.0.0 altium.com
+0.0.0.0 wizcase.com
+0.0.0.0 altium-pcb.de
+resources.altium.com
