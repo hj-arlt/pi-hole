@@ -5,9 +5,12 @@
 # Project home page: 
 # E-Mail: hj@arlt2net.de
 # ===========================================
-wizcase.com
-offer.com
+0.0.0.0 www.wizcase.com
+0.0.0.0 www.offers.com
+www.offer.com
 qlf.org.uk
-modetalente.com
+www.modetalente.com
+0.0.0.0 www.altium.com
+altium.com
 analytics.withgoogle.com
 analytic-google.com
