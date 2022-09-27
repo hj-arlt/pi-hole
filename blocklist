@@ -5,13 +5,15 @@
 # Project home page: 
 # E-Mail: hj@arlt2net.de
 # ===========================================
-0.0.0.0 www.wizcase.com
-0.0.0.0 www.offers.com
-www.offer.com
+
+# offers
+wizcase.com
+offer.com
 qlf.org.uk
-www.modetalente.com
-0.0.0.0 www.altium.com
+modetalente.com
 altium.com
+
+# google
 analytics.withgoogle.com
 analytic-google.com
 
@@ -34,3 +36,10 @@ arcus-uswest.amazon.com
 pinpoint.us-east-1.amazonaws.com
 aviary.amazon.de
 digprjsurvey.amazon.eu
+
+# microsoft
+ssp.advertising.com
+ssp.yahoo.com
+akamaized.net
+atwola.com
+api.mediago.io
