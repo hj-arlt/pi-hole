@@ -7,39 +7,40 @@
 # ===========================================
 
 # offers
-wizcase.com
-offer.com
-qlf.org.uk
-modetalente.com
-altium.com
+0.0.0.0 wizcase.com
+0.0.0.0 offer.com
+0.0.0.0 qlf.org.uk
+0.0.0.0 modetalente.com
+0.0.0.0 altium.com
 
 # google
-analytics.withgoogle.com
-analytic-google.com
+0.0.0.0 analytics.withgoogle.com
+0.0.0.0 analytic-google.com
+0.0.0.0 assistant-s3-pa.googleapis.com
 
 # alexa
-cortana-gateway.amazon.com
-api.amazonalexa.com
-avs.eu.amazonalexa.com
+0.0.0.0 cortana-gateway.amazon.com
+0.0.0.0 api.amazonalexa.com
+0.0.0.0 avs.eu.amazonalexa.com
 
 # amazon
-dp-discovery-na-ext.amazon.com
-frank-comp-na.amazon.com
-ftvr-na.amazon.com
-dcape-na.amazon.com
-dp-gw-na.amazon.com
-unagi-eu.amazon.com
-layla.amazon.com
-todo-ta-g7g.amazon.com
-spectrum.s3.amazonaws.com
-arcus-uswest.amazon.com
-pinpoint.us-east-1.amazonaws.com
-aviary.amazon.de
-digprjsurvey.amazon.eu
+0.0.0.0 dp-discovery-na-ext.amazon.com
+0.0.0.0 frank-comp-na.amazon.com
+0.0.0.0 ftvr-na.amazon.com
+0.0.0.0 dcape-na.amazon.com
+0.0.0.0 dp-gw-na.amazon.com
+0.0.0.0 unagi-eu.amazon.com
+0.0.0.0 layla.amazon.com
+0.0.0.0 todo-ta-g7g.amazon.com
+0.0.0.0 spectrum.s3.amazonaws.com
+0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 pinpoint.us-east-1.amazonaws.com
+0.0.0.0 aviary.amazon.de
+0.0.0.0 digprjsurvey.amazon.eu
 
 # microsoft
-ssp.advertising.com
-ssp.yahoo.com
-akamaized.net
-atwola.com
-api.mediago.io
+0.0.0.0 ssp.advertising.com
+0.0.0.0 ssp.yahoo.com
+0.0.0.0 akamaized.net
+0.0.0.0 atwola.com
+0.0.0.0 api.mediago.io
